@@ -12,6 +12,7 @@ import EnrollmentsList from '../pages/enrollments/List';
 import EnrollmentsCreate from '../pages/enrollments/Create';
 import EnrollmentsUpdate from '../pages/enrollments/Update';
 
+
 function MainLayout() {
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col font-sans text-slate-800 antialiased">
